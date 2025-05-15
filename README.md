@@ -1,5 +1,5 @@
 
-## 🔗 Demo (opcjonalnie)
+## 🔗 Demo
 
 Demo: [Vinyasa](https://linen-worm-330260.hostingersite.com/)
 

@@ -49,7 +49,7 @@ Możesz go zaimportować za pomocą **All-in-One WP Migration** i od razu uzyska
 
 
 
-##🇵🇱 
+## 🇵🇱 
 Jak rozpakować .zip.001, .002, .003
 🅰️ Sposób 1: przez 7-Zip (najprostszy)
 Upewnij się, że masz zainstalowany 7-Zip
@@ -75,7 +75,7 @@ Nie usuwaj żadnej części — archiwum nie zadziała
 
 Nazwy muszą być identyczne, różnić się tylko numerem (.001, .002, itd.)
 
-##🇬🇧 
+## 🇬🇧 
 How to extract .zip.001, .002, .003
 🅰️ Method 1: Using 7-Zip (easiest way)
 Make sure you have 7-Zip installed
